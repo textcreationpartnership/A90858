@@ -1,0 +1,778 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Popish treachery, or, A short and new account of the horrid cruelties exercised on the Protestants in France being a true prospect of what is to be expected from the most solemn promises of Roman Catholick princes : in a letter from a gentleman of that nation, to one in England, and by him made English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90858</idno>
+            <idno type="STC">Wing P2959</idno>
+            <idno type="STC">ESTC R181962</idno>
+            <idno type="EEBO-CITATION">42476305</idno>
+            <idno type="OCLC">ocm 42476305</idno>
+            <idno type="VID">151286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151286)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2253:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Popish treachery, or, A short and new account of the horrid cruelties exercised on the Protestants in France being a true prospect of what is to be expected from the most solemn promises of Roman Catholick princes : in a letter from a gentleman of that nation, to one in England, and by him made English.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the Year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with loss of text.</note>
+                  <note>"Licensed and Entred according to Order."</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France.</term>
+               <term>Persecution --  France.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:151286:1" rendition="simple:additions"/>
+            <p>Popish Treachery: OR, A Short and New Account OF THE Horrid Cruelties Exerciſed on the PROTESTANTS IN FRANCE. Being a true Proſpect of what is to be expected from the moſt ſolemn Promiſes of <hi>Roman</hi> Catholick Princes. In a Letter from a Gentleman of that Nation, to one in <hi>England,</hi> and by him made <hi>Engliſh.</hi>
+            </p>
+            <p>
+               <hi>Licenſed and Entred according to Order.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year 1689.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:151286:2"/>
+            <head>The Preface.</head>
+            <p>IT is not long ſince this Letter was writ to me by a <hi>French</hi> Gent<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>man, at my Requeſt, and for my particular Satisfaction; who he is a Perſon of much Worth and Integrity, and has been an Eye-w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs of moſt of the things whereof he ſpeaks, ſo the readier Faith a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> greater Credit ought to be given to them. But his Teſtimony alo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> need not to be rely'd on for the Matters of Fact he here relates, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are thouſands of other <hi>French Proteſtants,</hi> now in <hi>England,</hi> that co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>firm the truth of all; and who having felt the ſmart of a ſevere Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cution in <hi>France,</hi> are fled from thence to avoid the extream Fury a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſupportable Violence thereof. Now the unqueſtionable Evidence have for the certainty of what is advanced in the following Accoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and the deſire of many to ſee it Publiſhed in <hi>Engliſh,</hi> has made me co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſent to expoſe it, hoping it may give ſome ſeaſonable Information, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Satisfaction, to our People.</p>
+            <p>For though moſt of them may have heard much talk of a Perſecution i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>France,</hi> and have Generouſly and Bountifully contributed their Chari<g ref="char:EOLunhyphen"/>ty towards the Relief of thoſe Miſerable Perſecuted <hi>French Proteſtants</hi> who are come hither for Refuge and Succour, yet I have reaſon to believ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that very few of them know any thing of the Cruel manner, wherewit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Barbarous and Inhuman <hi>Papiſts</hi> have purſued that Perſecution this is what they will find ſet down in ſhort, in the little Relation her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſented to them; and they may there ſee a Notorious Example of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> baſe Treachery of <hi>Popery,</hi> and of the Cruelties which it holds, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Point of Religion, to make <hi>Proteſtants</hi> ſuffer; over whom it pretend to have a Soveraign and Abſolute Dominion. So this little Hiſtor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not being perplex'd and embarreſſed with numerous and tedious Cir<g ref="char:EOLhyphen"/>cumstances, all ſorts of people may thereby eaſily inform themſelves o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Perſecution, as much as we ordinarily deſire to know of ſuch Events And beſides that Charity of our poor <hi>Perſecuted</hi> Brethren and Fellow <hi>Proteſtants</hi> makes us concern'd therein, as being equally Objects of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hatred and Oppreſſion of <hi>Popery,</hi> ſo it may ſerve to prompt us to ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reflections for our own Intereſt: <hi>Nam tua res agitur paries cum pro<g ref="char:EOLhyphen"/>ximus ardet.</hi> When our Neighbours Houſe is on Fire, it behooves us to take Care of our own, and to uſe all Lawfull and Convenient means to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſerve</hi> it from the <hi>Rage</hi> and <hi>Fury</hi> of a <hi>Mercileſs Enemy.</hi> Such has <hi>Popery</hi> ever been to <hi>Proteſtants,</hi> and from it, Good Lord, ſtill Deliver <hi>England.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:151286:2"/>
+            <head>
+               <hi>Popiſh Treachery:</hi> Or, a Short and New Account of the Hor<g ref="char:EOLhyphen"/>rid Cruelties Exerciſed on the <hi>Proteſtants</hi> in <hi>FRANCE,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Cannot but wonder, as well as you, that no Hiſtory of the Per<g ref="char:EOLhyphen"/>ſecution of the <hi>French</hi> Proteſtants, has yet appeared in your Lan<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>age: 'Tis to be wiſhed it were well known to all people of the Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rmed Religion, that they might there ſee Popery in its true Co<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urs, and be taught by that great Example, to underſtand, that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>omiſes it makes, are but Lyes and ſnares, to deceive the Honeſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith and good Nature of other Men. They would there ſee like<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe, how by little and little it advanceth its Affairs, ſtill ſwearing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at it has no deſign to proceed any further; and how it, at length, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds Inhumanity to Perfidiouſneſs, when it has once got to be up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rmoſt: But we had enough to convince us of the Treacherons and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oody Spirit of Popery, without the Hiſtory of this late Perſecu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on. The Maſſacre of the <hi>Waldenſes</hi> ſo often reiterated: The gene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Maſſacre of the <hi>Proteſtants</hi> all over <hi>Europe,</hi> in the beginning of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Reformation: The Perſecution and Maſſacre of the <hi>Low-Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ies,</hi> under <hi>Philip</hi> the Second: The Maſſacre of St. <hi>Bartholomew</hi> in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ance:</hi> The Gun-powder Treaſon in <hi>England:</hi> The Maſſacre of <hi>Ire<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd:</hi> The laſt Perſecution of <hi>Hungary;</hi> and the late one of the Val<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ys of <hi>Piedmont,</hi> ſhew ſufficiently, how that Communion thirſts af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r the Blood of men, and is Ingenious in ſatiating it ſelf therewith, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om time to time. However, Sir, ſince you deſire it, I will here <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aw you a ſhort Scheme of that great Perſecution, which ought to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Eternal Advertiſement to all Proteſtants in the World, that
+<pb n="4" facs="tcp:151286:3"/>
+               <hi>Popery</hi> ſpares neither Oaths nor Promiſes to delude them, and ſtic<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at no Frauds nor Violences to obliterate them totally, if it we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſſible, from off the face of the Earth. And this Relation I a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now going to make you, will be ſo much the more faithful, as tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall ſay nothing therein, but what my own eyes have ſeen, or wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I other ways know for certain Truth.</p>
+            <p>The Proteſtants of <hi>France,</hi> liv'd under the Faith of many Edict<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which promiſed them liberty of Conſcience, and equal Priviledg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the reſt of the <hi>French;</hi> the moſt conſiderable of their Edicts w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that of <hi>Nantes. Henry</hi> the Fourth, Grand-father of His preſent Ma<g ref="char:EOLunhyphen"/>jeſty, having by their Aſſiſtance and Fidelity, put an end to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> League which the <hi>Papists</hi> had made, to hinder him from gettin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into the Throne, was deſirous to recompence the Blood and Live<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the <hi>Hugonots</hi> had expended for his ſervice; and he did it b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that famous Edict, which gave them the ſame Priviledges as his oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Subjects enjoy'd, and he granted it to them, and to their Poſterit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ever, under the Title of <hi>PERPETUAL</hi> and <hi>IRREVOCABLE</hi> ſo it was, as a Law of the State, which was confirm'd by the King at their coming to the Crown, and has been expreſly ſo, by man Edicts of <hi>Lewis</hi> the 13th, and of <hi>Lewis</hi> the 14th, now reigning.</p>
+            <p>When this King came to the Crown, he was very Young; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prince of <hi>Conde</hi> ſtirr'd up Civil Wars to raviſh it from him, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greateſt part of the <hi>Papiſts</hi> ſided with him, but the <hi>Proteſtants</hi> we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all of a conſtant and uncorrupted Fidelity to their Soveraign, ſo tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they made all the Prince's Deſigns prove Abortive; and preſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Scepter to him that yet bears it. After which, he gave them publick Declaration of his acknowledgement, and aſſur'd them of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> favour and protection, during his whole Reign; but at this ſame tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he gave this publick Declaration, and a thouſand other privat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ones to particular perſons, he even then began to form a deſign <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ruining thoſe who had ſaved him: He made reflection, that ſince, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their means, he had been ſettled in his Throne, they might, in a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other occaſion, ſhake him out of it; and upon this reflection it w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that he refolved to ruine them, as he has in effect done.</p>
+            <p>At firſt, he began with Retrenching, by degrees, all the <hi>Hugono<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="5" facs="tcp:151286:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om his Houſe, who had any Imployment therein, and the which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had given them as a recompence of their faithful ſervice to him; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſomuch, that in a ſhort time, there was not a Souldier in his whole <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uards, but what was of his own Religion; Merit was no longer con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der'd in their perſons, he no more advanc'd any of them to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aces of Truſt in the Kingdom; he put out thoſe he had formerly <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eferred thereto; and he ſet forth divers Declarations, prohibiting <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em all kind of Offices, Arts and Trades, ſo that none but <hi>Papiſts</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould exerciſe, or profeſs any; by which means, vaſt numbers of <hi>Pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estants</hi> were reduc'd to inevitable miſery.</p>
+            <p>He took their Colledges and Schools away from them, ſo that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad no Maſter of their Religion, to teach their Children either to Read or Write. When he had done that, he then ſent Troops of Miſſionaries into all the Towns, to gain, as many as they could, by cunning Tricks, or price of Money; and 'twas a ſtrange thing to ſee the ſhameful Commerce this people made, of buying thoſe whom ex<g ref="char:EOLhyphen"/>tream poverty oblig'd to ſell themſelves. The miſery was ſo great in ſome places, that they were forc'd to turn Papiſts; ſometimes for ten Crowns, ſometimes for five, ſometimes for two, ſometimes for a great deal leſs. Theſe Miſſionaries walk'd about, every where, with Baggs of Money in their Hands, and for the ſpace of two years together, one ſaw hardly any other Traders ſtirring up and down the Kingdom, but theſe Dealers for the Souls of men, who bought them according to their Profeſſion, and the number of their Families.</p>
+            <p>At the ſame time, Penſions, or Imployments were given to thoſe, of any conſideration, who would turn <hi>Papists.</hi> The King, by a Declaration, gave liberty to Children, at ſeven years of Age, to chooſe a Religion; and the Fathers of ſuch Children as became <hi>Papiſts,</hi> were forced to give them yearly Penſions, and always more than what they were well able; by which means they ſeduced abundance of the youger ſort, bringing mourning and deſolation into many Fa<g ref="char:EOLhyphen"/>milies, which for the moſt part of the time they utterly ruin'd.</p>
+            <p>After this, they forbad their Miniſter to ſpeak any thing of Con<g ref="char:EOLhyphen"/>troverſie, or of what paſs'd againſt them; upon which prohibition, and divers others of the like nature, they daily made them ſay things
+<pb n="6" facs="tcp:151286:4"/>that had never entered into their thoughts: They hired falſe Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſſes to depoſe againſt them, who were often reduc'd to avow the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lying Teſtimonies; and 'twas frequently prov'd too, the Prieſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and others, and ſuborn'd them. But as their ruine was abſolutel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſworn, ſo nothing ſatisfy'd them; their Eſtates were confiſcate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their perſons caſt into priſon, baniſh'd, or condemn'd to ſome othe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhameful diſgrace. There was no ſafety for any, they found way to bring the moſt moderate into trouble, and eſpecially, to deſtroy thoſe who were capable of giving ſome good Example to others.</p>
+            <p>Theſe are the degrees of the Deſolations of this People, and of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tears they have been made to ſhed for about twenty five years la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> paſt; during which time, no body poſſeſs'd in peace what they had and every one were in perpetual unquietudes for themſelves, and fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Children. But theſe were only the beginnings of their Miſery and the Eſſays of <hi>Popiſh</hi> fury and perfidiouſneſs: Whilſt on one hand they perſecuted ſome, they aſſured others that the King had no de<g ref="char:EOLhyphen"/>ſign againſt their Liberty. In almoſt all the Edicts which His Maje<g ref="char:EOLhyphen"/>ſty ſet forth, he inſerted ſome Article to lull them aſleep: He ſaid that not one Title of the Edict of <hi>Nantes</hi> ſhould be violated: And he inſinuated, that his intention was only to interdict the Religion and to ſtop there.</p>
+            <p>The Elector of <hi>Brandenburgh</hi> having had the bounty to intercede for them, the King of <hi>France</hi> gave him an Anſwer, that is to be ſeen in many of the <hi>Proteſtants</hi> writings; by which he aſſur'd His High<g ref="char:EOLhyphen"/>neſs, That ſo long as he liv'd, no wrong ſhould be done to his Sub<g ref="char:EOLhyphen"/>jects of the Reform'd Religion; that he acknowledged them for good ones, and would maintain them in all their Priviledges. In the mean time, he had taken from them many of theſe Priviledges; and what is remarkable at the ſame time that he wrote this Letter to his Highneſs of <hi>Brandenburgh,</hi> he in the very ſelf ſame inſtant cauſ<g ref="char:EOLhyphen"/>ed many of their Temples to be Demoliſh'd, and others to be ſhut up; put the Miniſters into Priſon; oppreſſed private perſons with heavy Injuſtices; and made thoſe to mourn bitterly whom he ſaid he would protect. He began a thing too, which had never been heard of in any Age, not even in the Savageſt Nations, or the moſt
+<pb n="7" facs="tcp:151286:4"/>mote from Chriſtianity; that is, He made Children to be taken from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Fathers and Mothers, and to be put into Convents, with a ſtrict <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arge not to let their Parents ſee them, not excepting even perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the higheſt Birth, and of Families to which he had obligations that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght never to have been forgotten by him. He took away ſeven <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the Duke <hi>de la Force,</hi> an Ancient Duke and Peer of the King<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om, the eldeſt not being then Twelve Years old. He did the like <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all thoſe of the Count <hi>de Roy,</hi> whom he had ſome time before per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted to go and ſerve the King of <hi>Denmark,</hi> in Quality of General <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Armies. In a word, at the ſame time that he promiſed to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otect the <hi>Hugonots,</hi> he even then did all he could to ruine them, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d there was nothing but Sighs and Tears amongſt them; One ſaw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery where Souls afflicted to the very Grave; ſome bewailing the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of their Paſtors and Temples; others the diſperſion and ruine <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Families; others the carrying away of their Children; and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers trembled for fear of the ſame, or of greater Misfortunes. In <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, do but mark now how far their Fraud and Cruelty went; that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ict of <hi>Nantes</hi> was Revocked, which they had ſo often promi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d ſo often ſworn ſhould be inviolably obſerv'd; and this Fence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing quite broke down, all that great people was abandon'd to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge and Fury of the Souldiers. But, what is yet more notorious, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> puſh on the Cheat as far as the fraudulent Wit of Man could car<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, in the very Act for Ceſſation of the fore-mentioned Edict, this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng declared, that he was deſirous that all people ſhould live qui<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in their Families; and that the Exerciſe of the Proteſtant Reli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on being interdicted, every one might live in his own Houſe, as he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſ'd. But at the ſame time that His Majeſty ſolemnly Swore this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omiſe, he ſent his Armies to ſurprize the <hi>Protestants</hi> in their Towns <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Houſes, with orders to Plunder, Burn, Demoliſh, Beat, and in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort, to make them ſuffer all manner of Evils could be devis'd, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath only excepted; which in this circumſtance would have been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok'd on as a great Happineſs. The King Uſurp'd the Throne of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and took upon him the Empire over the Conſcience; and in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Name whole Towns were Summon'd, by puiſſant Armies, to turn <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts,</hi> and upon refuſal, they were abandon'd to pillage and ruine,
+<pb n="8" facs="tcp:151286:5"/>and to the ſame Fury as Enemy Towns are wont to be when tak<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by Storm. They ſeiz'd on all the Avenues, and brought back th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the perſecutors, who had eſcaped out of their hands: They be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ranſack'd, violated, and made this people ſuffer a thouſand Evi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without diſtinction either of Age, Sex, or Quality, from the old <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the youngeſt, Male and Female, Noble, or Ignoble, all we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> equally at the diſcretion of the Souldiers: Blaſphemies, Impiet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Blows were the Arguments of this Infernal Miſſion; and o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may ſay, without exaggeration, that Hell ſeem'd to be let looſe, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that the Devils were come to Preach up <hi>Popery</hi> on the Earth. Al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Who can reckon the Tears were ſhed in this ſad occaſion? G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> alone knows their number, who doubtleſs has counted and gathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them all into his Boſom. The Air ecchoed every where with grie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ous Lamentations; and I think, nothing more pittiful could be hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than the Crys and Groans of this people, whilſt they were in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hands of their tormentors.</p>
+            <p>They dragg'd many of theſe poor Creatures into the <hi>Po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Churches by the Feet, by the Hair of the Head, or by Ropes ti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> about their Necks, they hang'd them up at the tops of Rooms, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out of the Windows, by their Heels, or by their Hands; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plung'd them into deep Wells, and ſtinking Mires, with Toads a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Serpents, where they left them according to the time of th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Conſtancy; they lighted great Fires, and Roaſted ſome till th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had changed their Religion; if their patience was longer than <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cruelty of their Perſecutors, then they baſted their Naked Legs w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſcalding Greaſe, or boyling Oyl. Others they made to hold <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hot Coals in their Hands; burnt the ſoals of their Feet; tore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hair from their Beards, and the Nails from their Fingers, and T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the very Roots; larded their fleſh all over with Pins, and thraſh them with Sticks till they left them for Dead. If they were Si<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they beat Drums, and ſounded Trumpets, Night and Day, in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ears, for 'twas a general Rule to hinder them from ſleeping, and ſet them in different Poſtures; ſometimes ſtanding upon one L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> holding up a Hand in the Air; ſometimes down on their Knees, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing the like, <hi>&amp;c.</hi> If they changed Poſtures, through wearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="9" facs="tcp:151286:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en they pinch'd and cudgell'd them till they were Black and Blue. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>metimes they tied all the people of a Family in a Room together, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in ſight of one another, they beat and bruis'd the Men, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de the Women ſuffer a thouſand indignities. They would often <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rry them ſeparately into Chambers, to torment them, but ſo as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey might hear each others crys; and every one in ſuffering, ſuffe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d for themſelves, and for the reſt of their Family, which they ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſaw in torments, or heard the crys thereof. In ſhort, let any <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an but fancy to himſelf, what vaſt numbers of Souldiers, brutal, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d let looſe, are capable to invent and act in all manner of miſchief <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d cruelty, and he will have an Idea of the method whereby the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>otestants</hi> of <hi>France</hi> have been taught to become <hi>Papists. O Tem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a! O Mores!</hi>
+            </p>
+            <p>This great Fury made thoſe that could ſave themſelves, fly into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Woods, Mountains and Caves; they wandred in the Fields, ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed to all the injuries of the Air, not having wherewith to live, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to cover themſelves, and not daring to ſtir but in the Night, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar of falling into the hands of their Enemies, Old and Young, Men <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Women, all wandred in the Deſarts; and all theſe were but <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me Members of ſad Families, Fathers without Children, and Chil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en without Fathers; Wives without their Husbands, and Hus<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds without their Wives; a doleful ſpectacle, no doubt, to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of Men. But this is not all, the fury was ſo exceſſive that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a-Ports were every where ſhut for to hinder their flight, and a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve 100000 Souldiers imployed to ſtop their paſſage on the Fron<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs, beſides all the Peaſants whom they had made, and the Prieſts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> joyn'd, to take up Arms againſt them; ſo that it was by great <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ovidence, if any could ſave themſelves amidſt ſo many Obſtacles. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd I don't believe there was one in fourty but what was taken, after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving gone, ſometimes two or three hundred Leagues, with all ſort <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miſery and difficulty. The Priſons were all full of thoſe poor <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gitives, and if any of them had ever changed their Religion be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re, they were ſent to the Galleys; a puniſhment in <hi>France,</hi> more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnominious and Cruel than any Death. One law every where in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Provinces, the Chains of theſe Confeſſors, which they dragg'd
+<pb n="10" facs="tcp:151286:6"/>along from one end of the Kingdom to the other: <hi>Tantaene Anim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> caelestibus irae.</hi> The Women were Shav'd, and carry'd away t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Convents; nor were they put in there many times, till they had fir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been at the mercy of certain people, worſe than the very Dragoons, &amp; who made them ſuffer things that modeſty and civility permit m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to name: I ſhall only ſay that they ſhut ſeveral of them up fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many months together, with Murderers and Highway Men, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch like Cattle. Some were caſt into deep Dungeons where the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never ſaw day-light, and they cloath'd them with filthy Ragg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken from the noiſom Carkaſes of dead perſons, which they ſtripp'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before their Faces. But the height of all Evils, and that which ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never entred into the heart of the wickedeſt of all the men Hiſtor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tells us of, was the ſending whole Veſſels full of them to the New<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world, to be ſold to the Savages there; Men and Women, Youn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Old, Noble or others, all were treated equally alike.</p>
+            <p>In ſome places they made Aſſemblies to pray to God, and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Dragoons Maſſacred all they could light on, burnt the Houſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to which the Fugitives retir'd, and thoſe poor creatures with the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Some they hang'd up on Trees, and others they precipitated fro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the tops of high Rocks, and they broke thoſe on the wheel, lim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after limb, whom they called the heads of theſe Aſſemblies. But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would be endleſs to particularize all the various Tortures, and u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heard of Cruelties, which the <hi>Papists</hi> practic'd upon the <hi>Proteſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> in <hi>France,</hi> for to force them to abjure their Religion: I will on<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, that they carry'd them to all the exceſs of Fury and Inhumani<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Devils themſelves were capable to inſpire. So that conſide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing this Perſecution in all its circumſtances, it may well be recko<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed the greateſt and blackeſt that ever was amongſt Chriſtians <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Age.</p>
+            <p>After they had in this manner diſperſed ſo many Families, ruin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo many Houſes, made ſo many Tears to be ſhed, and caus'd a g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neral Deſolation, they at length made a publick Spectacle and D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vertiſement thereof. The Kings Players Acted for many mont<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> together in <hi>Paris,</hi> a Comedy, call'd, <hi>Merlin Dragoon;</hi> in whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Perſecutors and the Perſecuted were the Perſons Repreſente<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="11" facs="tcp:151286:6"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>rt and People went in Crowds to laugh and divert them<g ref="char:EOLhyphen"/>ſelves, at the Oppreſſions and Torments which the <hi>Proteſtants</hi> had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffer'd; and by this, as well as the reſt, you may judge what ſhare Piety had in that Work.</p>
+            <p>Now though all theſe Frauds, Violencies and Cruelties, and in<g ref="char:EOLhyphen"/>finite numbers more have been acted towards the <hi>Proteſtants</hi> of <hi>France,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the face of the Sun, before Millions of Eye-witneſſes, and are known to be the greateſt part of <hi>Europe;</hi> yet ſome are ſo unreaſon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bly incredulous, that they will not be perſwaded there has been any Perſecution in that Kingdom; and others have been ſo diſin<g ref="char:EOLhyphen"/>geniouſly confident, as to maintain in their Oral and printed Diſ<g ref="char:EOLhyphen"/>courſes, that there has been none. Amongſt theſe latter, is the Bi<g ref="char:EOLhyphen"/>ſhop. of <hi>Meaux,</hi> Monſieur <hi>Varillas,</hi> Father <hi>Thomaſin,</hi> Monſieur <hi>Brueis, &amp;c.</hi> perſons of great Parts and Learning, though of very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle Candor and Integrity. Nor indeed, is it any wonder to find ſuch Sons and Champions of <hi>Popery,</hi> deficient in thoſe laudable and Chriſtian Vertues, ſince 'tis very difficult, nay, almoſt impoſſible, for a man to be of the <hi>Roman</hi> Church, and not have his Principles Vitiated, and his Morals-Depraved by her; ſo different are the Maxims and Doctrines ſhe impoſes, from thoſe which our Saviour teacheth us in his Holy Goſpel. But that which the Ingenious Au<g ref="char:EOLhyphen"/>thor of the Apolog. Hiſt. urges, to prove the truth of the late Per<g ref="char:EOLhyphen"/>ſecution againſt the aſſertions of Monſieur <hi>Brueis,</hi> and the reſt, ſeems ſufficient to convince the unprejudic'd World of the reality thereof, and to invalidate thoſe Gentlemens Arguments, and all other what<g ref="char:EOLhyphen"/>ſoever to the contrary.</p>
+            <p>Above two hundred thouſand perſons, ſays he, of both Sexes, of all Ages, and of all conditions, the greateſt part of which lived very well, at their eaſe, in their own Houſes, and many of them poſſeſs'd rich Inheritances, conſiderable Imploys, fair Revenues, ſome to the value of three and four thouſand pounds <hi>per Annum.</hi> Theſe, ſays <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, have left all, and are moſt of them gone out of <hi>France,</hi> in a manner, quite Naked. They have not only quitted their Houſes and Eſtates, abandon'd their Countrey, their Friends, their Parents, Relations of all kinds, thoſe that were neareſt and deareſt to them;
+<pb n="12" facs="tcp:151286:7"/>they have broke all the ties of Nature and Conſanguinity; and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the moſt tender Affection; they have ſeparated, if I may ſo ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from a part of themſelves, from their own Bowels. In this crue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeparation, they have gone away from all they had moſt near and dear to them in the World, at the price of their Liberties and thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives. They have done it to go and wander in unknown Coun<g ref="char:EOLhyphen"/>tries, in Climates extreamly different from thoſe where they had receiv'd their Births, without having any thing certain, withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hoping for any other ſubſiſtance there, than what they could gathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the charity of ſtrangers. If this be not the effect of a violen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Perſecution, what is then that madneſs which has got into the minds of all, and made them take ſo unparellell'd a Reſolution <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> How has this Fury communicated it ſelf to ſo many people of all ſorts, who lived very far aſunder, and who had never known, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeen one another? How has it gain'd, in ſo ſhort a time, all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Provinces of ſo great a Kingdom as <hi>France</hi> is, and in thoſe Provin<g ref="char:EOLhyphen"/>ces, almoſt all who were, or had been of the Reform'd Religion Men and Women, Young and Old, Rich and Poor, Noble and Ignoble? Let Monſieur <hi>Brueis</hi> now explain to us a little this unheard of Prodigy, if he will perſwade us that there has been no Perſe<g ref="char:EOLhyphen"/>cution in <hi>France.</hi>
+            </p>
+            <p>But whatſoever men are pleaſed to ſay, and think of it, I may with truth affirm, that above two hundred thouſand of the Kings moſt faithful Subjects, have voluntarily Baniſhed themſelves from his Kingdom to fly the Perſecution; not to ſpeak of many thouſand others, perſons, ſome of which have been condemned to the laſt puniſhments by the Judges; others have been Maſſacred by the Souldiers; others have died in the Galleys, others have been ſhut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up in Convents; and others been embark'd and ſent for <hi>America<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> New Declarations more ſevere than the former are daily publiſh'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> freſh Oders are given for the Guard of the Frontiers; the new Converts are forc'd, with greater rigour than ever, to go to Maſs to Confeſs, and receive the Communion. They continue to fil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Convents, Priſons and Galleys with Confeſſors; and they emp<g ref="char:EOLhyphen"/>ty them from time to time by new Embarkments for <hi>America<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="13" facs="tcp:151286:7"/>There where the Aſſemblies continue, there they continue to Maſ<g ref="char:EOLhyphen"/>ſacre them. The Dragoons perform their Miſſion with the ſame Zeal ſtill; and the Judges ceaſe not giving the ſame ſights to the people of Bodies drawn about on Sledges, and caſt Dead upon the common Highways; and of Martyrs conducted to puniſhment, and ending their Lives by the hands of Executioners.</p>
+            <p>Such is now the face of <hi>France:</hi> Such is the Concord and the Union that reigns at preſent in this Kingdom: Such is the calm which the Church enjoys, and that happy Peace which the King has given it; according to the ſtyle of Monſieur <hi>Brueis:</hi> What Concord, O God! What Union! What Calm! What Peace! Truely no Patience is Proof againſt the baſe diſhoneſty of this Declaimer. Who can ſuffer ſuch like impudence? But above all, who can without indignation read what he ſays in another place in the ſame Spirit? <hi>We ſee now,</hi> ſays he, <hi>that the VViſe Conduct of this Great Prince has brought again into the Church, the faireſt days of Chriſtiani<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, &amp;c.</hi> Yes, theſe are, we know it but too well; theſe are the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aireſt days, not of Chriſtianity, God forbid! But of <hi>Popery,</hi> of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Roman</hi> Church; that cruel <hi>Babylon,</hi> which is never ſo ſatisfied, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s when ſhe can make her ſelf Drunk with the Blood of the Saints and Martyrs of Jeſus; looks on ſuch Days, as her Days of Feſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, as her Days of Triumph. So it was that ſhe heretofore look'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that ſad and dreadful Night of St. <hi>Bartholomew,</hi> wherein many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houſand <hi>Proteſtants</hi> were Maſſacred by the <hi>Papiſts</hi> in times of Peace, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in cold Blood: One of her Orators made the Encomium there<g ref="char:EOLhyphen"/>of, with a thouſand Tranſports of Admiration and Joy, in a Speech which he pronounced before Pope <hi>Gregory</hi> the XIII, <hi>O Memorable Night,</hi> ſaid he, <hi>and worthy to be Ingrav'd in large Characters in Hiſtory,</hi> &amp;c. <hi>That ſame Night, I think the Stars appeared more Bright and Glorious than ordinary; and the River</hi> Sene <hi>had ſwell'd its Waters, that it might hurry away with a greater rapidneſs, the dead Bodies of thoſe Impure Perſons,</hi> viz. <hi>of the Reform'd, and diſcharge it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf the ſooner of them into the Sea. O! Thrice happy Woman,</hi> Katharine, <hi>Mother of the King!</hi> &amp;c. <hi>O! Happy Brothers of the King!</hi> &amp;c. <hi>O! Day, in fine, full of Joy and Pleaſantneſs, wherein you, Holy Father,
+<pb n="14" facs="tcp:151286:8"/>having receiv'd this News, you aſſisted on foot at the Proceſſions you ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> order'd, for the rendring thanks for it to God, and to S.</hi> Lewis, &amp; <hi>What more agreeable News could have been told you? And we, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Happier beginning could we have wiſh'd for of your Popedom?</hi>
+            </p>
+            <p>Let any one judge by theſe Words of the Spirit of <hi>Popery,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of that of her Soveraign High Prieſt; and whether it be not th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit of the Impure and cruel <hi>Babylon,</hi> rather than that of the Church of Jeſus Chriſt.</p>
+            <p>I will now conclude, becauſe I propoſ'd to my ſelf to give you bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a little Abridgment, and an Idea, only of this great Perſecution; doubt not but he, to whom Vengeance belongs, will ſooner or late Revenge ſo many Evils. <hi>Lento quidem gradu Divina procedi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ira, ſe<g ref="char:EOLhyphen"/>tarditatem Supplicii gravitate compenſat.</hi>
+            </p>
+            <lg>
+               <l>Vengeance doth ſurely, tho' but ſlowly tread,</l>
+               <l>And ſtrikes with Iron, tho' it walks with Lead.</l>
+            </lg>
+            <p>You ſee, in this Relation, the Impoſtures and Treacheries <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Popery,</hi> as to its Oaths and Promiſes; to which no credit ought eve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be given, becauſe it certainly never Swears and Promiſes, but t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be Perjur'd, and to break its Word upon the firſt occaſion. Yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> likewiſe ſee here the degrees of its Cruelties, and how by little an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little it advances them, till it at length comes to the Effuſion o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Blood, and to open Violence. Farewell. I am</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed> Your very Humble and Obedient Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151286:8"/>
+            <pb facs="tcp:151286:9" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
